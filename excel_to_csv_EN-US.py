@@ -59,7 +59,9 @@ canvas1.create_window(150, 200, window=exitButton)
 #root.mainloop()
 
 def help():
-	MsgBox = tk.messagebox.showinfo ('Help','To convert a file:\n1-Click the desired conversion.\n2-Find and select the file\n3-Select where you want to save the converted file.\n4-Type what name you want to give the converted file. \n5-Click on "Save".\n6-Done, your file will already be converted and in the destination folder.')
+	MsgBox = tk.messagebox.showinfo ('Help','To convert a file:\n1-Click the desired conversion.\n2-Find and select the file\n
+	3-Select where you want to save the converted file.\n4-Type what name you want to give the converted file. \n
+	5-Click on "Save".\n6-Done, your file will already be converted and in the destination folder.')
 	root.mainloop()
 helpButton= tk.Button (root, text='Help❓',command=help, bg='lightsteelblue2', fg='black', font=('helvetica', 12, 'bold')).place(x=220, y=0)
 canvas1.create_window(150, 100, window=helpButton)
