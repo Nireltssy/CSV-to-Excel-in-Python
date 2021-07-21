@@ -1,9 +1,11 @@
 # CSV-to-Excel-in-Python
 
 Uma maneira fácil de converter arquivos do Excel para CSV e CSV para Excel com GUI usando python.
+
 Easy way to convert Excel file to CSV and CSV to Excel with GUI using python.
 
-########################################################################################################
+###################################################################################################
+
 PT-BR
 
 Você precisa do Python 3 em sua máquina.
@@ -16,7 +18,8 @@ Este programa existe em duas versões, uma em PT-BR e outra em EN-US.
 
 Aproveite!!!
 
-########################################################################################################
+###################################################################################################
+
 EN-US
 
 Do you need Python 3 on your machine.
