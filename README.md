@@ -22,12 +22,12 @@ Aproveite!!!
 
 EN-US
 
-Do you need Python 3 on your machine.
+You'll need Python 3 in your machine.
 
-This project was born out of a real need for a project, which required a CSV registration that 
-generated incompatibility with the one created by the office package therefore, this project was
+This project was born out of a real need of a project, that required a CSV registration which 
+generated incompatibility with the one created by the office package. Therefore this project was
 created in python with an easy-to-view GUI.
 
 This program exists in two versions, one in PT-BR and one in EN-US.
 
-enjoy!!!
+Enjoy!!!
